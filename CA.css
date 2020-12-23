@@ -1,0 +1,160 @@
+body{
+    padding: 3%;
+}
+
+
+
+.img1{
+    width: 23%;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+.menuDiv{
+    margin-left: 26%;
+    margin-top: -2%;
+    font-size: 25px;
+}
+
+
+a{
+
+    text-decoration: none;
+    margin-left: 6%;
+    font-size: medium;
+}
+.button{
+    background-color: dodgerblue;
+    width: 131px;
+    border: none;
+    margin-bottom: 1%;
+    color: white;
+    float: right;
+    margin-top: -2%;
+}
+.Vrapper{
+  width: 
+}
+.smallButton{
+    height: 43px;
+    width: 211px;
+    background: lightgrey;
+    border-style: none;
+    border-radius: 32px;
+    padding-left: -3%;
+}
+
+
+
+.pleft{
+    background: limegreen;
+    float: left;
+    border-radius: 25px;
+    padding: 7%;
+    margin-top: 0%;
+    margin-left: -4%;
+}
+
+.pright{
+    font-size: 15px;
+    margin-top: 6%;
+    color: blue;
+}
+.para1{
+    margin-top: -13px;
+}
+.button2{
+    float: left;
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    width: 104px;
+    margin-right: 22px;
+}
+.right{
+    float: left;
+    background: lightgrey;
+    height: 28px;
+    margin-top: 2px;
+    text-align: center;
+    padding-top: 11px;
+    color: blue;
+  
+}
+.img2{
+    margin-left: 320px;
+    margin-top: -177px;
+    margin-top: -17%;
+    margin-top: -12%;
+    width: 705px;
+    height: 444px;
+    margin-top: -197px;
+   
+}
+
+.circle1{
+    width: 70px;
+    height: 70px;
+    background: white;
+    border-radius: 50%;
+    margin-left: 6%;
+    margin-top: -7%;
+    position: absolute;
+    border: solid 10px #d8dfe2;
+}
+.circle2{
+    width: 70px;
+    height: 70px;
+    background: white;
+    border-radius: 50%;
+    margin-left: 32%;
+    margin-top: -7%;
+    position: absolute;
+   border: solid 10px #d8dfe2;
+}
+.circle3{
+    width: 70px;
+    height: 70px;
+    background:white;
+    border-radius: 50%;
+    margin-left: 60%;
+    margin-top: -7%;
+    position: absolute;
+    border: solid 10px #d8dfe2;
+}
+.number1{
+    font-size: xxx-large;
+    text-align: center;
+    margin-top: 13%; 
+}
+.number2{
+    font-size: xxx-large;
+    text-align: center;
+    margin-top: 11%;
+}
+.number3{
+    font-size: xxx-large;
+    text-align: center;
+    margin-top: 13%;
+}
+.text1{
+    margin-left: 1%;
+}
+.text2{
+    margin-left: 30%;
+    margin-top: -9%;
+}
+.text3{
+    margin-left: 64%;
+    margin-top: -7%;
+}
+.backgroundvrap{
+    background: #afa3a326;
+}
+.circlesstyle{
+    margin-top: 4%;
+    margin-left: 1%;
+}
+
+
+
+
